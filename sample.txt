@@ -1,1 +1,3 @@
 I am trying this first time 
+I need to know the result finally 
+Because iam learning this git hib for past 7 days
